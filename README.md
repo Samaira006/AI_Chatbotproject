@@ -29,28 +29,41 @@ https://verloop.io/blog/ai-chatbot/
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+https://chat.openai.com/
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data sources
+1.Predefined Responses
+2.Knowledge bases
+3.FAQ'S and documentation
+4.Web Scraping
+5.APIs
+6.User Input
+7.Machine Learning and Training Data
+
+AI Methods
+1.rule based systems
+2.Machine learing (ML) algorithms
+3.Natural language processing(NLP)
+4.Natural language understanding(NLU)
+5.Natural language generation(NLG)
+6.Neural networks
+7.Reinforcement learing 
+8.Hybrid Approaches
+
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+may this project not show images but explains and helps.
+videos also are not shown
+but and suggest through links
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+it will move on more newly developed platforms and can be used there to chat with the users.
+To develop this project AI skills are needed and some programming skills
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+information collected from chatgpt and google images and link for both is below
+https://chat.openai.com/
+https://verloop.io/blog/ai-chatbot/
